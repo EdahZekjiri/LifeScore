@@ -3,6 +3,7 @@
 Ein bewusst einfacher Desktop-Prototyp auf Basis der Anforderungen aus `Life Score-2.pdf`. Die Anwendung läuft lokal und benötigt für die Kernfunktionen weder Konto noch Internet.
 
 ## Bereits umgesetzt
+## mit Claude
 
 - täglicher Fragebogen für Schlaf, Bewegung, Ernährung, Produktivität und soziale Aktivität
 - gewichtete Score-Berechnung von 0 bis 100
