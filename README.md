@@ -4,6 +4,8 @@ Ein bewusst einfacher Desktop-Prototyp auf Basis der Anforderungen aus `Life Sco
 
 ## Bereits umgesetzt
 
+## Weitere Änderungen via Claude gemacht
+
 - täglicher Fragebogen für Schlaf, Bewegung, Ernährung, Produktivität und soziale Aktivität
 - gewichtete Score-Berechnung von 0 bis 100
 - rückwirkende Einträge über eine Datumsauswahl
@@ -57,4 +59,3 @@ Wie gewünscht ist jede nicht-leere Java-Codezeile direkt kommentiert. Die Komme
 
 Der Prototyp enthält noch kein Benutzerkonto, keine Cloud-Synchronisierung, keinen Adminbereich und keine grafische Avatar-Anpassung. Diese Punkte sind in `docs/NEXT_STEPS.md` als Ausbaupfad festgehalten.
 
-## Weitere Änderungen via Claude gemacht
