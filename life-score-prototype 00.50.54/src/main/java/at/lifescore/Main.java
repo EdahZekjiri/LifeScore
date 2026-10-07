@@ -1,10 +1,9 @@
 package at.lifescore; // Legt das Basispaket der Anwendung fest.
 
-import javax.swing.SwingUtilities; // Macht die lokale Datenspeicherung verfügbar.
-
-import at.lifescore.repository.EntryRepository; // Macht die fachliche Score-Logik verfügbar.
-import at.lifescore.service.ScoreService; // Macht das Hauptfenster der Anwendung verfügbar.
-import at.lifescore.ui.LifeScoreFrame; // Stellt den sicheren Start der Swing-Oberfläche bereit.
+import at.lifescore.repository.EntryRepository; // Macht die lokale Datenspeicherung verfügbar.
+import at.lifescore.service.ScoreService; // Macht die fachliche Score-Logik verfügbar.
+import at.lifescore.ui.LifeScoreFrame; // Macht das Hauptfenster der Anwendung verfügbar.
+import javax.swing.SwingUtilities; // Stellt den sicheren Start der Swing-Oberfläche bereit.
 
 public final class Main { // Definiert den nicht vererbbaren Einstiegspunkt der Anwendung.
     private Main() { // Verhindert das unnötige Erzeugen eines Main-Objekts.
