@@ -1,0 +1,8 @@
+.idea/
+*.iml
+target/
+delivery/
+LifeScore.jar
+data/avatar.properties
+data/*.csv
+!data/.gitkeep
