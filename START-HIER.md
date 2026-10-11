@@ -36,7 +36,7 @@ Ein Check-in gibt 10 bis 20 XP. Die App zeigt gesperrte Looks mit ihrer Freischa
 ## Was steckt im Paket?
 
 - `LifeScore.jar`: fertig gebaute, startbare Anwendung.
-- `src/main/java`: vollständiger Quellcode mit deutschen Erklärungen direkt neben dem Code.
+- `src/main/java`: vollständiger Quellcode.
 - `src/test/java`: fünf ausführbare Tests, darunter echte Check-in- und Avatar-Integrationstests.
 - `pom.xml`: Projektimport in IntelliJ oder Maven.
 - `build.sh` / `build-windows.bat`: JAR selbst aus dem Quellcode neu bauen (JDK 17+ erforderlich).
